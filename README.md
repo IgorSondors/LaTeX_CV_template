@@ -46,13 +46,12 @@ igor.sondors@gmail.com \cvinfosep
 \section{Technical Skills}
 
 \begin{itemize}
-\item \textbf{Python}
+\item \textbf{Python:} numpy, pandas, scikit-learn, xgboost, matplotlib, seaborn, opencv
 \item \textbf{Tensorflow} 
-\item \textbf{LaTeX}  
 \item \textbf{Wolfram Mathematica}
-\item \textbf{OpenCV}
 \item \textbf{SQL}
 \item \textbf{Docker}
+\item \textbf{LaTeX}
 \end{itemize}
  
 \section{Programmer Work Experience}
@@ -108,7 +107,7 @@ igor.sondors@gmail.com \cvinfosep
 \item[Languages]	English: professional proficiency.  Russian: native
 \end{description}
 
-
 \end{document}
+
 
 ```
