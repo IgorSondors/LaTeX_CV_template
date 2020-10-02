@@ -1,6 +1,6 @@
 # LaTeX_CV_template
 
-```python
+```latex
 
 \documentclass{article}
 \usepackage{scimisc-cv}
