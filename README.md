@@ -1,6 +1,7 @@
 # LaTeX_CV_template
 
 ```python
+
 \documentclass{article}
 \usepackage{scimisc-cv}
 \documentclass{book}
@@ -17,11 +18,10 @@
 
 \urlstyle{same}
 
-\title{Scismic's Recommended CV for Biotech and Pharma Positions}
-\author{Scismic: The Talent Matching Platform for The Life Sciences (www.scismic.com)}
-\date{May 2020}
+\title{IgorSondors Recommended CV for ML Positions}
+\author{IgorSondors}
+\date{Oct 2020}
 
-%% These are custom commands defined in scimisc-cv.sty
 \cvname{Igor Sondors, ML engineer}
 \cvpersonalinfo{
 8(931)-57-69-201 \cvinfosep
@@ -33,7 +33,6 @@ igor.sondors@gmail.com \cvinfosep
 
 \begin{document}
 
-% \maketitle %% This is LaTeX's default title constructed from \title,\author,\date
 
 \makecvtitle %% This is a custom command constructing the CV title from \cvname, \cvpersonalinfo
 
@@ -59,8 +58,6 @@ igor.sondors@gmail.com \cvinfosep
  
 \section{Programmer Work Experience}
 
-%% Another custom command provide by scimisc-cv.sty.
-%% First two argumetns are typeset on the first line in bold; 3rd and 4th arguments are typset on second line in italics. 2nd, 3rd and 4th arguments are OPTIONAL
 \cvsubsection{Aktiv financial group}[Saint Petersburg]
 [ML engineer][Oct 2019 to present]
 
