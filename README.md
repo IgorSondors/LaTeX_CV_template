@@ -4,7 +4,6 @@
 
 \documentclass{article}
 \usepackage{scimisc-cv}
-\documentclass{book}
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
 
