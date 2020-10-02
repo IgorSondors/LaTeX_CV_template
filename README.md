@@ -41,7 +41,7 @@ igor.sondors@gmail.com \cvinfosep
 \item Interdisciplinary scientist with skills and experience in Solid state physics and Machine learning
 \item Experienced school lecturer and private physics and mathematics teacher
 \item Self-motivated, problem-solving and collaborative scientist with excellent communication skills
-\item Looking to always study and improve my skills
+\item Always looking for study new things
 \end{itemize}
  
 \section{Technical Skills}
@@ -111,6 +111,5 @@ igor.sondors@gmail.com \cvinfosep
 
 
 \end{document}
-
 
 ```
