@@ -35,14 +35,6 @@ igor.sondors@gmail.com \cvinfosep
 
 \makecvtitle %% This is a custom command constructing the CV title from \cvname, \cvpersonalinfo
 
-\section{Summary}
-\begin{itemize}
-\item Interdisciplinary scientist with skills and experience in Solid state physics and Machine learning
-\item Experienced school lecturer and private physics and mathematics teacher
-\item Self-motivated, problem-solving and collaborative scientist with excellent communication skills
-\item Always looking for study new things
-\end{itemize}
- 
 \section{Technical Skills}
 
 \begin{itemize}
@@ -54,7 +46,7 @@ igor.sondors@gmail.com \cvinfosep
 \item \textbf{LaTeX}
 \end{itemize}
  
-\section{Programmer Work Experience}
+\section{Programming Experience}
 
 \cvsubsection{Aktiv financial group}[Saint Petersburg]
 [ML engineer][Oct 2019 to present]
@@ -68,13 +60,6 @@ igor.sondors@gmail.com \cvinfosep
 
 \begin{itemize}
 \item The task was to purify user question from unnecessary words then turn words in vectors and classify them. My contribution in this project is creating of \href{https://github.com/IgorSondors/getlooky_rnn_backend}{model} for classification of user questions using neural networks and classical machine learning methods.
-\end{itemize}
-
- 
-\section{Education}
-
-\begin{itemize}
-\item Bachelor, Solid State Physics Department, Saint Petersburg State University, 2017  
 \end{itemize}
  
 \section{Teaching Experience }
@@ -102,15 +87,29 @@ igor.sondors@gmail.com \cvinfosep
 \item I researched of structure regularity and optical properties of nanowires which was grown at silicon and sapphire substrates. Also I was taking part with growing nano crystals on silicon and sapphire substrates and processed data on luminescence spectra which was near of theme of my diploma. My experience at this job was only for two months because I had to quit my job and focus on my diploma. Also I was working at I Physical lab and II Physical lab as a student and taking part at the \href{https://pureportal.spbu.ru/ru/projects/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2-%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B3%D0%B5%D1%82%D0%B5%D1%80%D0%BE%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80-%D0%BD%D0%B0-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5-iii}{grant researches of Silicon heterostructures}
 \end{itemize}
 
+\section{Education}
+
+\begin{itemize}
+\item Bachelor, Solid State Physics Department, Saint Petersburg State University, 2017  
+\end{itemize}
+
 \section{Other Skills}
 \begin{description}[widest=Langauges]
 \item[Languages]	English: professional proficiency.  Russian: native
 \end{description}
 
+\section{Awards}
+\begin{itemize}
+\item \href{https://daobet.org/blog/malta-blockchain-hackathon-event-review/}{Malta Blockchain Hackathon} as a part of Tensegrity team, Oct 2018
+\item \href{https://www.kaggle.com/c/landmark-recognition-2020}{Google Landmark Recognition 2020}, Oct 2020
+\end{itemize}
+
 \end{document}
 
-
 ```
+
+
+
 # LaTeX_CV_template Russian
 
 ```latex
