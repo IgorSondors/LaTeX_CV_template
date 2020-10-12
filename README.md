@@ -117,20 +117,19 @@ igor.sondors@gmail.com \cvinfosep
 
 \documentclass{article}
 \usepackage{scimisc-cv}
-\usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
 %Russian-specific packages
 %--------------------------------------
 \usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
 \usepackage[russian]{babel}
 %--------------------------------------
- 
 \usepackage{hyperref}
 \hypersetup{
     colorlinks=true,
     linkcolor=blue,
     filecolor=magenta,      
-    urlcolor=blue,
+    urlcolor=blue
 }
 
 \urlstyle{same}
@@ -170,7 +169,7 @@ igor.sondors@gmail.com \cvinfosep
 [ML engineer][Октябрь 2019 по настоящее время]
 
 \begin{itemize}
-\item Создал OCR приложение работающее на облачном сервере для распознавания паспортов РФ по фото. Использовал Tensorflow object detection API с тонкой настройкой архитектуры Faster RCNN для \href{https://github.com/IgorSondors/text_detector}{детектирования} и модель CRNN для распознания текста на шумных изображениях.
+\item Создал OCR приложение работающее на облачном сервере для распознавания паспортов РФ по фото. Применил Tensorflow object detection API с тонкой настройкой архитектуры Faster RCNN для \href{https://github.com/IgorSondors/text_detector}{детектирования} и модель CRNN для распознания текста на шумных изображениях.
 \end{itemize}
 
 \cvsubsection{GetLooky}[Санкт-Петербург]
@@ -202,7 +201,8 @@ igor.sondors@gmail.com \cvinfosep
 [Инженер-исследователь][Ноябрь 2016 по Январь 2017]
 
 \begin{itemize}
-\item Изучал правильность структуры и оптические свойства нитевидных нанокристаллов, что было близко к теме моей дипломной работы. Принимал участие в выращивании кристаллов GaN на кремниевой и сапфировой подложках. В данной должности я находился всего два месяца, так как был вынужден свое время полностью посвятить выпускной квалификационной работе. Также в курсе лабораторных работ я проводил различные опыты в I Физической и II Физической лабораториях и принимал участие в \href{https://pureportal.spbu.ru/ru/projects/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2-%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B3%D0%B5%D1%82%D0%B5%D1%80%D0%BE%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80-%D0%BD%D0%B0-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5-iii}{исследовании кремниевых гетероструктур по гранту}
+
+\item Изучал правильность структуры и оптические свойства нитевидных нанокристаллов, что было близко к теме моей дипломной работы. Принимал участие в выращивании кристаллов GaN на кремниевой и сапфировой подложках. В данной должности я находился всего два месяца, так как был вынужден свое время полностью посвятить выпускной квалификационной работе. Также в курсе лабораторных работ я проводил различные опыты в I Физической и II Физической лабораториях и принимал участие в \href{https://pureportal.spbu.ru/ru/projects/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2-%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B3%D0%B5%D1%82%D0%B5%D1%80%D0%BE%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80-%D0%BD%D0%B0-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5-iii}{исследовании кремниевых гетеро-структур в рамках гранта}
 \end{itemize}
 
 \section{Образование}
@@ -223,4 +223,5 @@ igor.sondors@gmail.com \cvinfosep
 \end{itemize}
 
 \end{document}
+
 ```
