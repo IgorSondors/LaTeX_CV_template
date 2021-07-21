@@ -28,7 +28,7 @@
 
 \cvname{Igor Sondors, ML engineer}
 \cvpersonalinfo{
-8(931)-57-69-201 \cvinfosep
+Telegram: @igorsondors \cvinfosep
 igor.sondors@gmail.com \cvinfosep
 \href{https://github.com/IgorSondors}{Github} \cvinfosep
 \href{https://www.kaggle.com/igorsondors}{Kaggle} \cvinfosep
