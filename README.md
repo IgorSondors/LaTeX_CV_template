@@ -69,7 +69,7 @@ igor.sondors@gmail.com \cvinfosep
 \end{itemize}
 
 \cvsubsection{GetLooky}[Saint Petersburg]
-[ML engineer][Mar 2019 to Oct 2019]
+[Python programmer][Mar 2019 to Oct 2019]
 
 \begin{itemize}
 \item The task was to purify user questions from unnecessary words then turn words in vectors and classify them. My contribution in this project is creating a \href{https://github.com/IgorSondors/getlooky_rnn_backend}{model} for classification of user questions using neural networks and classical machine learning methods.
