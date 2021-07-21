@@ -1,6 +1,6 @@
 # LaTeX online
 
-(link)[https://www.overleaf.com/]
+[link](https://www.overleaf.com/)
 
 
 # LaTeX_CV_template English
