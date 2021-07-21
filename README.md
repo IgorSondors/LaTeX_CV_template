@@ -152,7 +152,7 @@ igor.sondors@gmail.com \cvinfosep
 
 \cvname{Игорь Сондорс, ML engineer}
 \cvpersonalinfo{
-8(931)-57-69-201 \cvinfosep
+Telegram: @igorsondors \cvinfosep
 igor.sondors@gmail.com \cvinfosep
 \href{https://github.com/IgorSondors}{Github} \cvinfosep
 \href{https://www.kaggle.com/igorsondors}{Kaggle} \cvinfosep
@@ -167,25 +167,32 @@ igor.sondors@gmail.com \cvinfosep
 \section{Технические навыки}
 
 \begin{itemize}
-\item \textbf{Python:} numpy, pandas, scikit-learn, xgboost, matplotlib, seaborn, opencv
+\item \textbf{Python:} opencv, numpy, pandas, scikit-learn, xgboost, matplotlib, seaborn
 \item \textbf{Tensorflow} 
+\item \textbf{PyTorch}
 \item \textbf{Wolfram Mathematica}
-\item \textbf{SQL}
 \item \textbf{Docker}
-\item \textbf{LaTeX}
+\item \textbf{SQL}
 \end{itemize}
  
 \section{Опыт программирования}
 
+\cvsubsection{Huawei Consumer Business Group}[Санкт-Петербург]
+[ML engineer][Декабрь 2020 по настоящее время]
+
+\begin{itemize}
+\item Основная часть моих обязанностей - это работа с синтетическими генераторами для задачи OCR in the wild и их доработка под наш пайплайн обучения моделей, препроцессинг плохо размеченных реальных данных. Также моя работа включает исследование всевозможных аугментаций и методов обучения моделей, изучение статей.
+\end{itemize}
+
 \cvsubsection{Финансовая группа "Актив"}[Санкт-Петербург]
-[ML engineer][Октябрь 2019 по настоящее время]
+[ML engineer][Октябрь 2019 по Декабрь 2020]
 
 \begin{itemize}
 \item Создал OCR приложение работающее на облачном сервере для распознавания паспортов РФ по фото. Применил Tensorflow object detection API с тонкой настройкой архитектуры Faster RCNN для \href{https://github.com/IgorSondors/text_detector}{детектирования} и модель CRNN для распознания текста на шумных изображениях.
 \end{itemize}
 
 \cvsubsection{GetLooky}[Санкт-Петербург]
-[ML engineer][Март 2019 по Октябрь 2019]
+[Python programmer][Март 2019 по Октябрь 2019]
 
 \begin{itemize}
 \item Участвовал в разработке \href{https://github.com/IgorSondors/getlooky_rnn_backend}{системы} классификации вопросов пользователя с применением глубоких нейронных сетей и классических методов машинного обучения. Мой вклад этом проекте в создании самого классификатора.
