@@ -46,15 +46,22 @@ igor.sondors@gmail.com \cvinfosep
 \item \textbf{Python:} opencv, numpy, pandas, scikit-learn, xgboost, matplotlib, seaborn
 \item \textbf{Tensorflow} 
 \item \textbf{PyTorch}
-\item \textbf{Wolfram Mathematica}
 \item \textbf{Docker}
 \item \textbf{SQL}
 \end{itemize}
  
 \section{Programming Experience}
 
+\cvsubsection{OzForensics}[Almaty]
+[ML engineer][Dec 2021 to present]
+
+\begin{itemize}
+\item Work on the development of models for evaluating the quality of pictures for a face recognition system and protection against spoofing of such systems. Made an ML model for assessing the of the user's eyes and smiles openness, made a model for protecting against the substitution of the camera's video stream.
+
+\end{itemize}
+
 \cvsubsection{Huawei Consumer Business Group}[Saint Petersburg]
-[ML engineer][Dec 2020 to present]
+[ML engineer][Dec 2020 to Dec 2021]
 
 \begin{itemize}
 \item The main part of my responsibilities is working with synthetic OCR generators and adaptation of those for our model training pipeline. Also my work includes research of any data augmentation modes and model training pipeline techniques
@@ -65,14 +72,14 @@ igor.sondors@gmail.com \cvinfosep
 [ML engineer][Oct 2019 to Dec 2020]
 
 \begin{itemize}
-\item I built and conducted in production an OCR application for recognition of the Russian language text in documents. I use Tensorflow object detection API with fine tuning of Faster RCNN architecture for \href{https://github.com/IgorSondors/text_detector}{text detection} and CRNN model for text recognition on a noised images respectively.
+\item I built an OCR application for recognition of the Russian language text in documents.
 \end{itemize}
 
 \cvsubsection{GetLooky}[Saint Petersburg]
 [Python programmer][Mar 2019 to Oct 2019]
 
 \begin{itemize}
-\item The task was to purify user questions from unnecessary words then turn words in vectors and classify them. My contribution in this project is creating a \href{https://github.com/IgorSondors/getlooky_rnn_backend}{model} for classification of user questions using neural networks and classical machine learning methods.
+\item The task was to purify user questions from unnecessary words then turn words in vectors and classify them. My contribution in this project is creating a model for classification of user questions using neural networks and classical machine learning methods.
 \end{itemize}
  
 \section{Teaching Experience }
