@@ -47,13 +47,20 @@ igor.sondors@gmail.com \cvinfosep
 \item \textbf{Tensorflow} 
 \item \textbf{PyTorch}
 \item \textbf{Docker}
-\item \textbf{SQL}
 \end{itemize}
  
 \section{Programming Experience}
 
+\cvsubsection{S8 Capital}[Moscow]
+[ML engineer][Mar 2023 to present]
+
+\begin{itemize}
+\item Develop of a SKU-SKU ML matching system for e-commerce aggregator of merchandise prices
+
+\end{itemize}
+
 \cvsubsection{OzForensics}[Almaty]
-[ML engineer][Dec 2021 to present]
+[ML engineer][Dec 2021 to Mar 2023]
 
 \begin{itemize}
 \item Work on the development of models for evaluating the quality of pictures for a face recognition system and protection against spoofing of such systems. Made an ML model for assessing the of the user's eyes and smiles openness, made a model for protecting against the substitution of the camera's video stream.
@@ -104,7 +111,7 @@ igor.sondors@gmail.com \cvinfosep
 [Research engineer][Nov 2016 to Jan 2017]
 
 \begin{itemize}
-\item I researched structure regularity and optical properties of nanowires which were grown at silicon and sapphire substrates. Also I was taking part in growing nano crystals on silicon and sapphire substrates and processed data on luminescence spectra which was near to the theme of my diploma. My experience at this job was only for two months because I had to quit my job and focus on my diploma. Also I was working at I Physical lab and II Physical lab as a student and taking part at the \href{https://pureportal.spbu.ru/ru/projects/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2-%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B3%D0%B5%D1%82%D0%B5%D1%80%D0%BE%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80-%D0%BD%D0%B0-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5-iii}{grant researches of Silicon heterostructures}
+\item I researched structure regularity and optical properties of nano wires which were grown at silicon and sapphire substrates. Also I was taking part in growing nano crystals on silicon and sapphire substrates and processed data on luminescence spectra which was near to the theme of my diploma. My experience at this job was only for two months because I had to quit my job and focus on my diploma. Also I was working at I Physical lab and II Physical lab as a student and taking part in the \href{https://pureportal.spbu.ru/ru/projects/modeling-of-formation-of-iiiv-nanowirebased-heterostructures-for-information-technologies-and-high-performance-computing(3d53fa04-1848-44ed-866c-2e067cc45b28).html}{research of GaN heterostructures}.
 \end{itemize}
 
 \section{Education}
@@ -120,7 +127,7 @@ igor.sondors@gmail.com \cvinfosep
 
 \section{Awards}
 \begin{itemize}
-\item \href{https://daobet.org/blog/malta-blockchain-hackathon-event-review/}{Malta Blockchain Hackathon} as a part of Tensegrity team, Oct 2018
+\item Malta Blockchain Hackathon as a part of Tensegrity team, Oct 2018
 \item \href{https://www.kaggle.com/c/landmark-recognition-2020}{Google Landmark Recognition 2020}, Oct 2020
 \end{itemize}
 
