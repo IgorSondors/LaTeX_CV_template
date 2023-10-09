@@ -24,7 +24,7 @@
 
 \title{IgorSondors Recommended CV for ML Positions}
 \author{IgorSondors}
-\date{Oct 2020}
+\date{Mar 2023}
 
 \cvname{Igor Sondors, ML engineer}
 \cvpersonalinfo{
@@ -162,7 +162,7 @@ igor.sondors@gmail.com \cvinfosep
 
 \title{IgorSondors Recommended CV for ML Positions}
 \author{IgorSondors}
-\date{Oct 2020}
+\date{Mar 2023}
 
 \cvname{Игорь Сондорс, ML engineer}
 \cvpersonalinfo{
