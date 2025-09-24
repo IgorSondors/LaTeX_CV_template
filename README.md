@@ -7,6 +7,7 @@
 
 ```latex
 
+
 \documentclass{article}
 \usepackage{scimisc-cv}
 \usepackage[utf8]{inputenc}
@@ -43,19 +44,27 @@ igor.sondors@gmail.com \cvinfosep
 \section{Technical Skills}
 
 \begin{itemize}
-\item \textbf{Python:} opencv, numpy, pandas, scikit-learn, xgboost, matplotlib, seaborn
-\item \textbf{Tensorflow} 
-\item \textbf{PyTorch}
-\item \textbf{Docker}
+\item \textbf{Python:} opencv, numpy, pandas, scikit-learn, xgboost, transformers, matplotlib, seaborn
+\item \textbf{DL} PyTorch, Tensorflow, Keras
+\item \textbf{Docker, Spark, Hadoop}
+\item \textbf{Languages}	English: professional proficiency.  Russian: native
 \end{itemize}
  
 \section{Programming Experience}
 
-\cvsubsection{S8 Capital}[Moscow]
-[ML engineer][Mar 2023 to present]
+\cvsubsection{T-Bank}[Moscow]
+[ML engineer][Nov 2024 to present]
 
 \begin{itemize}
-\item Develop of a SKU-SKU ML matching system for e-commerce aggregator of merchandise prices
+\item Developed and deployed to production the NLP service FLAI (First Line AI) based on BERT for automatic classification of customer requests in T-Business. Backend: FastAPI, PostgreSQL, Kubernetes, CI/CD on GitLab. Implemented a full DevOps pipeline with monitoring and alerting. The service reduced support workload, freeing up 4 FTE support engineers.
+
+\end{itemize}
+
+\cvsubsection{S8 Capital}[Moscow]
+[ML engineer][Mar 2023 to Oct 2024]
+
+\begin{itemize}
+\item Development of an \href{https://youtu.be/Esttc9j1bYk?si=leUdyXXYVqEZJzZN&t=4032}{SKU-SKU ranking and matching system} for the product aggregator price.ru. Content generation using LLM.
 
 \end{itemize}
 
@@ -63,7 +72,7 @@ igor.sondors@gmail.com \cvinfosep
 [ML engineer][Dec 2021 to Mar 2023]
 
 \begin{itemize}
-\item Work on the development of models for evaluating the quality of pictures for a face recognition system and protection against spoofing of such systems. Made an ML model for assessing the of the user's eyes and smiles openness, made a model for protecting against the substitution of the camera's video stream.
+\item Developed Quality Assessment models for a facial recognition system and anti-spoofing models. Built ML models for assessing eye openness and user smile levels (Ordinal Regression) and designed a neural network to protect against video stream spoofing.
 
 \end{itemize}
 
@@ -71,7 +80,7 @@ igor.sondors@gmail.com \cvinfosep
 [ML engineer][Dec 2020 to Dec 2021]
 
 \begin{itemize}
-\item The main part of my responsibilities is working with synthetic OCR generators and adaptation of those for our model training pipeline. Also my work includes research of any data augmentation modes and model training pipeline techniques
+\item Developed OCR in the wild, synthetic data generators, and preprocessing of poorly labeled data (structuring point clouds). Trained models and built an ML model for detecting highlights in basketball games (Temporal Shift Module).
 
 \end{itemize}
 
@@ -79,14 +88,14 @@ igor.sondors@gmail.com \cvinfosep
 [ML engineer][Oct 2019 to Dec 2020]
 
 \begin{itemize}
-\item I built an OCR application for recognition of the Russian language text in documents.
+\item Developed an OCR system for recognizing Russian passports from photos. Applied computer vision methods without neural networks, EasyOCR, Tesseract, synthetic data generators, and trained a custom OCR model.
 \end{itemize}
 
 \cvsubsection{GetLooky}[Saint Petersburg]
 [Python programmer][Mar 2019 to Oct 2019]
 
 \begin{itemize}
-\item The task was to purify user questions from unnecessary words then turn words in vectors and classify them. My contribution in this project is creating a model for classification of user questions using neural networks and classical machine learning methods.
+\item Developed a user question classification system using classic ML algorithms and word2vec.
 \end{itemize}
  
 \section{Teaching Experience }
@@ -95,14 +104,14 @@ igor.sondors@gmail.com \cvinfosep
 [Mathematics teacher][Sep 2018 to Aug 2019]
 
 \begin{itemize}
-\item I was a math teacher in pupil grades 10th and 11th. As a result of my work in this school, all of the graduates of the 11th grade passed the unified state exam with test scores that were better than the average in the Leningrad Region. One of my pupils reached a score of 90 in the Mathematics exam. That great result provided a winning \href{https://gost-sch.lmn.su/index.php/tsentr-obrazovaniya-tsifrovogo-i-gumanitarnogo-profilej/galereya}{grant for the school}. So I decided to quit this job because I did teaching for six years and reached a state of the art in this.
+\item Taught 10–11 grade students. All of my students scored above the regional average. One student scored 90 on the Unified State Exam in Mathematics. Successfully prepared two medal-winning graduates.
 \end{itemize}
 
 \cvsubsection{Physics and Mathematics teacher}
 [Private teacher][Sep 2013 to present]
 
 \begin{itemize}
-\item I \href{https://spb.repetitors.info/repetitor/?p=SondorsIK}{teach pupils} how to pass a unified state exam of Mathematics and Physics and also a university course of High Mathematics and Linear Algebra. I developed 5 training manuals for solving any geometric task and collected a wide bank of physics tasks for ultimate exam training which was proved by 3 generations of my pupils. Pupils who were under my supervision were able to enter Moscow State University, St. Petersburg State University, Bauman Moscow State Technical University, Ural Federal University, etc
+\item Authored a proprietary curriculum for preparing students for the Unified State Exam in Mathematics and Physics. My students were admitted to top universities such as St. Petersburg State University, Moscow State University, Bauman Moscow State Technical University, and Ural Federal University.
 \end{itemize}
 
 \section{Science Experience }
@@ -111,7 +120,7 @@ igor.sondors@gmail.com \cvinfosep
 [Research engineer][Nov 2016 to Jan 2017]
 
 \begin{itemize}
-\item I researched structure regularity and optical properties of nano wires which were grown at silicon and sapphire substrates. Also I was taking part in growing nano crystals on silicon and sapphire substrates and processed data on luminescence spectra which was near to the theme of my diploma. My experience at this job was only for two months because I had to quit my job and focus on my diploma. Also I was working at I Physical lab and II Physical lab as a student and taking part in the \href{https://pureportal.spbu.ru/ru/projects/modeling-of-formation-of-iiiv-nanowirebased-heterostructures-for-information-technologies-and-high-performance-computing(3d53fa04-1848-44ed-866c-2e067cc45b28).html}{research of GaN heterostructures}.
+\item Studied the structural integrity and optical properties of nanowires, closely related to the topic of my thesis. Participated in the growth of GaN crystals on silicon and sapphire substrates. Took part in a \href{https://pureportal.spbu.ru/en/projects/modeling-of-formation-of-iiiv-nanowirebased-heterostructures-for-information-technologies-and-high-performance-computing(3d53fa04-1848-44ed-866c-2e067cc45b28).html}{grant-funded research project}.
 \end{itemize}
 
 \section{Education}
@@ -120,11 +129,6 @@ igor.sondors@gmail.com \cvinfosep
 \item Bachelor, Solid State Physics Department, Saint Petersburg State University, 2017  
 \end{itemize}
 
-\section{Other Skills}
-\begin{description}[widest=Langauges]
-\item[Languages]	English: professional proficiency.  Russian: native
-\end{description}
-
 \section{Awards}
 \begin{itemize}
 \item Malta Blockchain Hackathon as a part of Tensegrity team, Oct 2018
@@ -132,6 +136,7 @@ igor.sondors@gmail.com \cvinfosep
 \end{itemize}
 
 \end{document}
+
 
 ```
 
