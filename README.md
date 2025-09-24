@@ -162,7 +162,7 @@ igor.sondors@gmail.com \cvinfosep
 
 \title{IgorSondors Recommended CV for ML Positions}
 \author{IgorSondors}
-\date{Mar 2023}
+\date{Oct 2020}
 
 \cvname{Игорь Сондорс, ML engineer}
 \cvpersonalinfo{
@@ -170,7 +170,8 @@ Telegram: @igorsondors \cvinfosep
 igor.sondors@gmail.com \cvinfosep
 \href{https://github.com/IgorSondors}{Github} \cvinfosep
 \href{https://www.kaggle.com/igorsondors}{Kaggle} \cvinfosep
-\href{https://www.linkedin.com/in/igor-sondors-06ba07b7/}{Linkedin}
+\href{https://www.linkedin.com/in/igor-sondors-06ba07b7/}{Linkedin} \cvinfosep
+\href{https://career.habr.com/igor-sondors}{Habr}
 }
 
 \begin{document}
@@ -178,76 +179,100 @@ igor.sondors@gmail.com \cvinfosep
 
 \makecvtitle %% This is a custom command constructing the CV title from \cvname, \cvpersonalinfo
  
-\section{Технические навыки}
+\section{Навыки}
 
 \begin{itemize}
-\item \textbf{Python:} opencv, numpy, pandas, scikit-learn, xgboost, matplotlib, seaborn
-\item \textbf{Tensorflow} 
-\item \textbf{PyTorch}
-\item \textbf{Docker}
+\item \textbf{Python:} opencv, numpy, pandas, scikit-learn, xgboost, transformers, matplotlib, seaborn
+\item \textbf{DL:} PyTorch, Tensorflow, Keras
+\item \textbf{Docker, Spark, Hadoop}
+\item \textbf{English:} upper intermediate, достаточный для чтения документации и общения
 \end{itemize}
  
-\section{Опыт программирования}
+\section{Программирование}
 
-\cvsubsection{S8 Capital}[Москва]
-[ML engineer][Март 2023 по настоящее время]
+\cvsubsection{Т-банк}[Москва]
+[ML engineer][Ноябрь 2024 по настоящее время]
 
 \begin{itemize}
-\item Разработка ML Матчера для сопоставления офферов с карточками товаров сайта агрегатора цен.
+\item Разработал и внедрил в production NLP-сервис FLAI (First
+Line AI) на базе BERT для авто классификации клиентских обращений в Т-бизнес. Backend: FastAPI, PostgreSQL, Kubernetes, CI/CD на GitLab. Полный DevOps-pipeline с мониторингом и Алертингом. Сервис снизил нагрузку на поддержку: высвобождено 4 FTE инженеров
+\end{itemize}
+
+\cvsubsection{S8 Capital}[Москва]
+[ML engineer][Март 2023 по Октябрь 2024]
+
+\begin{itemize}
+\item Разработка \href{https://youtu.be/Esttc9j1bYk?si=leUdyXXYVqEZJzZN&t=4032}{ранжирующей и матчинговой системы} SKU-SKU
+для агрегатора товаров price.ru. Генерация контента с
+помощью LLM
 \end{itemize}
 
 \cvsubsection{OzForensics}[Алматы]
 [ML engineer][Декабрь 2021 по Март 2023]
 
 \begin{itemize}
-\item Работа над разработкой моделей оценки качества картинок для системы распознавания лиц и защиты от спуфинга таких систем. Сделал ML модели оценки широты открытости глаз и улыбки пользователя, сделал модель защиты от подмены видео потока камеры.  
+\item Разработка моделей Quality Assessment для системы
+распознавания лиц и моделей защиты от спуфинга таких
+систем. Сделал ML модели оценки степени открытости глаз и
+улыбки пользователя (Ordinal Regression), сделал нейросеть
+для защиты от подмены видео потока с камеры  
 \end{itemize}
 
 \cvsubsection{Huawei Consumer Business Group}[Санкт-Петербург]
 [ML engineer][Декабрь 2020 по Декабрь 2021]
 
 \begin{itemize}
-\item Основная часть моих обязанностей - это работа с синтетическими генераторами для задачи OCR in the wild и их доработка под наш пайплайн обучения моделей, препроцессинг плохо размеченных реальных данных. Также моя работа включает исследование всевозможных аугментаций и методов обучения моделей, изучение статей.
+\item Разработка OCR in the wild, синтетические генераторы, препроцессинг плохо размеченных данных
+(упорядочить облако точек), обучение моделей. Разработка
+ML модели для выделения интересных моментов в видео
+баскетбольных матчей (Temporal Shift Module).
 \end{itemize}
 
 \cvsubsection{Финансовая группа "Актив"}[Санкт-Петербург]
 [ML engineer][Октябрь 2019 по Декабрь 2020]
 
 \begin{itemize}
-\item Создал OCR систему для распознавания паспортов РФ по фото.
+\item Разработка OCR системы для распознавания паспортов РФ
+по фото. Применение CV без нейросетей, EasyOCR, Tesseract,
+синтетические генераторы, обучение собственного OCR.
 \end{itemize}
 
 \cvsubsection{GetLooky}[Санкт-Петербург]
 [Python programmer][Март 2019 по Октябрь 2019]
 
 \begin{itemize}
-\item Участвовал в разработке системы классификации вопросов пользователя с применением глубоких нейронных сетей и классических методов машинного обучения. Мой вклад этом проекте в создании самого классификатора.
+\item Разработка системы классификации вопросов пользователя с
+использованием classic ML алгоритмов.
 \end{itemize}
 
-\section{Преподавательский опыт}
+\section{Преподавательство}
 
 \cvsubsection{Гостилицкая школа}[Санкт-Петербург]
 [Учитель математики][Сентябрь 2018 по Август 2019]
 
 \begin{itemize}
-\item Вел уроки 10-11х классов общеобразовательной школы. Все ученики, сдававшие профильный ЕГЭ по математике, написали экзамен с баллом выше среднего по ЛО. Один из моих учеников набрал 90 баллов на ЕГЭ. Я подготовил двух медалистов, в том числе благодаря этому школа выиграла \href{https://gost-sch.lmn.su/index.php/tsentr-obrazovaniya-tsifrovogo-i-gumanitarnogo-profilej/galereya}{грант на ремонт}.
+\item Преподавал для 10-11х классов. Все мои ученики набрали баллы выше среднего по ЛО. Один из моих учеников набрал 90 баллов на ЕГЭ по математике. Я подготовил двух медалистов.
 \end{itemize}
 
 \cvsubsection{Репетитор по математике и физике}
 [][Сентябрь 2013 по настоящее время]
 
 \begin{itemize}
-\item \href{https://spb.repetitors.info/repetitor/?p=SondorsIK}{Мною} написаны 5 методических пособий для решения любых геометрических заданий из ЕГЭ по Математике, а также создан банк заданий на все темы ЕГЭ по Физике. Мои ученики поступают в такие учебные заведения как СПбГУ, МГУ, МГТУ им Баумана, УрФУ.
+\item Мною написаны разработана авторская программа по подготовке к ЕГЭ по математике и физике. Мои ученики поступают в такие учебные заведения как СПбГУ, МГУ, МГТУ им Баумана, УрФУ.
 \end{itemize}
 
-\section{Научный опыт}
+\section{Наука}
 
 \cvsubsection{СПбГУ лаборатория Физики Твердого Тела}[Санкт-Петербург]
 [Инженер-исследователь][Ноябрь 2016 по Январь 2017]
 
 \begin{itemize}
 
-\item Изучал правильность структуры и оптические свойства нитевидных нанокристаллов, что было близко к теме моей дипломной работы. Принимал участие в выращивании кристаллов GaN на кремниевой и сапфировой подложках. В данной должности я находился всего два месяца, так как был вынужден свое время полностью посвятить выпускной квалификационной работе. Также в курсе лабораторных работ я проводил различные опыты в I Физической и II Физической лабораториях и принимал участие в \href{https://pureportal.spbu.ru/ru/projects/modeling-of-formation-of-iiiv-nanowirebased-heterostructures-for-information-technologies-and-high-performance-computing(3d53fa04-1848-44ed-866c-2e067cc45b28).html}{исследовании кремниевых гетеро-структур в рамках гранта}
+\item Изучал правильность структуры и оптические свойства
+нитевидных нанокристаллов, что было близко к теме моей
+дипломной работы. Принимал участие в выращивании
+кристаллов GaN на кремниевой и сапфировой подложках.
+Участвовал в \href{https://pureportal.spbu.ru/en/projects/modeling-of-formation-of-iiiv-nanowirebased-heterostructures-for-information-technologies-and-high-performance-computing(3d53fa04-1848-44ed-866c-2e067cc45b28).html}{грантовом исследовании}
 \end{itemize}
 
 \section{Образование}
@@ -255,11 +280,6 @@ igor.sondors@gmail.com \cvinfosep
 \begin{itemize}
 \item Бакалавр, Кафедра Физики Твердого Тела, Санкт-Петербургский Государственный Университет, 2017  
 \end{itemize}
- 
-\section{Другие навыки}
-\begin{description}[widest=Languages]
-\item[Языки]	Английский: upper intermediate, достаточный для чтения документации и общения.  Русский: родной
-\end{description}
 
 \section{Награды}
 \begin{itemize}
